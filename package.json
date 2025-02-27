@@ -1,0 +1,9 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto em javascript",
+  "license": "MIT",
+  "author": "Igor Santana",
+  "type": "commonjs",
+  "main": "index.js"
+}
